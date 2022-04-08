@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZGFyjIatppkOW16pOaHTgSqu/JVDRRgR2yY4enOoxRH8+C0M05ehwFt8BBelnXIsl2M6L+9z8AbSVSD4R8udw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Bojo\\source\\repos\\TestTradingBot\\TestTradingBot(2)\\TestTradingBot(2).csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
